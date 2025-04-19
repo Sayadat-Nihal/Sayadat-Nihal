@@ -1,10 +1,10 @@
 # Hi, I'm Sayadat Hosen Nihal!  
-### Aspiring Islamic Scholar | Programmer | Researcher | Future Educator  
+### Aspiring Islamic learner | Programmer | Researcher | Future Educator  
 
 I'm an undergraduate student at the *University of Dhaka*, Department of Arabic.  
 Currently growing my skills in programming, data analysis, and Islamic research.
-
 ---
+### how to reach me -- nihalsayadathosen@gmail.com
 
 ### 🌱 Currently Learning
 - Data Analysis with *Python* & *Google Sheets*
